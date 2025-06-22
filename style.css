@@ -1,0 +1,26 @@
+body {
+  background: #0a0a0a;
+  color: #eee;
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+  padding-top: 50px;
+}
+input, button {
+  padding: 10px;
+  font-size: 16px;
+  margin: 10px;
+}
+button {
+  background-color: #4b8bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+.game-container {
+  max-width: 400px;
+  margin: auto;
+  background: #1e1e1e;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 0 10px #111;
+}
